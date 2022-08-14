@@ -8,4 +8,4 @@ cool
 cool
 cool
 cool
-cool master
+cool master2
